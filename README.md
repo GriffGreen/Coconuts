@@ -1,3 +1,3 @@
-FooCoin (FOO)
+coconuts (FOO)
 
 Blah, blah, blah.
